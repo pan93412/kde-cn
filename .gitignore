@@ -1,4 +1,5 @@
 /trunk
 /stable
 /lokalize-scripts
+*.lqa
 .directory
