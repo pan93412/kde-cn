@@ -8,12 +8,14 @@
 cd trunk
 svn up templates
 svn up zh_CN
+svn up zh_TW
 cd ..
 
 # Update stable branch
 cd stable
 svn up templates
 svn up zh_CN
+svn up zh_TW
 cd ..
 
 echo "翻译已更新！"
