@@ -2,4 +2,5 @@
 /stable
 /lokalize-scripts
 *.lqa
+*.diff
 .directory
