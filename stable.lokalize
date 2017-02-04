@@ -1,0 +1,9 @@
+[General]
+AltDir=trunk/zh_CN
+BranchDir=trunk/zh_CN
+LangCode=zh_CN
+MailingList=kde-china@kde.org
+PoBaseDir=stable/zh_CN
+PotBaseDir=stable/templates
+ProjectID=kde_stable
+TargetLangCode=zh_CN
