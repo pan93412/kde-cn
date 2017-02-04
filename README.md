@@ -7,13 +7,13 @@
 ## 使用需求
 
 1. GNU/Linux 操作系统
-2. Lokalize，KDE 的项目翻译工具
+2. Lokalize，KDE 的工程翻译工具
 3. Subversion (SVN)，KDE使用的源代码管理工具
 4. Kompare, KDE 的 diff 工具
 
 ## 新人入门
 
-### 步骤一：初始化项目结构，下载翻译文件
+### 步骤一：初始化工程结构，下载翻译文件
 
 ```shell
 git clone git@github.com:guoyunhe/kde-cn.git
@@ -39,9 +39,9 @@ cd kde-cn
 
 ![screenshot](img/lokalize-config.png)
 
-### 步骤三：打开翻译项目
+### 步骤三：打开翻译工程
 
-在 Lokalize 的菜单栏中点击 **打开项目** 。然后打开 git 目录中的 trunk.localize 项目文件，或者 stable.localize 项目文件。
+在 Lokalize 的菜单栏中点击 **打开工程** 。然后打开 git 目录中的 trunk.localize 工程文件，或者 stable.localize 工程文件。
 
 Trunk 指的是未发布的开发版代码，而 Stable 是最新发布的稳定版代码。建议您优先翻译 Trunk 分支，然后通过二级同步将 Trunk 分支的翻译复制到 Stable 分支。
 
@@ -49,7 +49,7 @@ Trunk 指的是未发布的开发版代码，而 Stable 是最新发布的稳定
 
 ### 步骤四：添加翻译存储
 
-在 Lokalize 项目界面，右击 **messages** 文件夹，添加到翻译存储。
+在 Lokalize 工程界面，右击 **messages** 文件夹，添加到翻译存储。
 
 ![screenshot](img/lokalize-memory.png)
 
@@ -57,7 +57,7 @@ Trunk 指的是未发布的开发版代码，而 Stable 是最新发布的稳定
 
 ### 步骤五：翻译文件
 
-在项目视图中选择要编辑的文件，点击打开。
+在工程视图中选择要编辑的文件，点击打开。
 
 ![screenshot](img/lokalize-editor.png)
 
