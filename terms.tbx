@@ -922,7 +922,7 @@
             <term>others</term>
           </tig>
           <tig>
-            <term></term>
+            <term/>
           </tig>
         </langSet>
         <langSet xml:lang="zh-CN">
@@ -1007,7 +1007,7 @@
         </langSet>
       </termEntry>
       <termEntry id="guo_yunhe-76">
-        <descrip type="subjectField"></descrip>
+        <descrip type="subjectField"/>
         <langSet xml:lang="en-US">
           <tig>
             <term>name</term>
@@ -1057,7 +1057,7 @@
             <term>备注</term>
           </tig>
           <tig>
-            <term></term>
+            <term/>
           </tig>
         </langSet>
       </termEntry>
@@ -1223,6 +1223,19 @@
         <langSet xml:lang="zh-CN">
           <tig>
             <term>开发者</term>
+          </tig>
+        </langSet>
+      </termEntry>
+    <termEntry id="guo_yunhe-93">
+        <descrip type="subjectField">文件系统</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>symbolic link</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>符号链接</term>
           </tig>
         </langSet>
       </termEntry>
