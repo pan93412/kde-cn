@@ -87,6 +87,7 @@ Trunk 指的是未发布的开发版代码，而 Stable 是最新发布的稳定
 
 1. 加入邮件列表，发送一封内容随意的邮件给 <kde-china-request@kde.org> 即可。
 2. 请将翻译过的 po 文件发送到邮件列表 <kde-china@kde.org> 并耐心等待。
+3. 有问题可以在 Freenode 上的聊天室 [#kde-cn](https://webchat.freenode.net/?channels=#kde-cn) 即时交流。
 
 ### KDE 开发者
 
@@ -110,12 +111,42 @@ Trunk 指的是未发布的开发版代码，而 Stable 是最新发布的稳定
 
 第四级目录： 按照软件类别分类
 
-最重要的三个文件夹：
+最重要的三个目录：
 
 1. kde-workspace 桌面和系统设置的主要内容
 2. frameworks 系统组件之类的
 3. applications 核心应用，比如 Dolphin 文件管理器，Kate 编辑器，Konsole 终端
 
+主要应用程序目录：
+
+1. pim - 邮件，日历，通讯录，聊天等应用。
+2. kdepim-runtime - 支持 pim 应用的后台服务。
+3. calligra - 文档，图表，绘画等办公应用。然而由于 Linux 用户使用 LibreOffice 和 OpenOffice 的较多，翻译需求并不很急迫。可优先翻译 krita。
+4. kdegraphics - 图像查看器，截图工具，去色其，屏幕标尺，扫描仪和 PDF 查看器。gwenview，spectacle 和 okular 是关键应用。
+5. kdemultimedia - 音视频编辑器和播放器。dragonplayer 和 kdenlive 是比较重要的应用。
+6. kdeutils - 压缩工具，计算器，计时器等小工具。虽然是小工具，但是还都挺常用的。
+7. kdenetwork - 网络账户集成，在线分享，网络存储，远程控制等。
+8. kdeedu - 教育和科学应用。其中 marble 是很关键的应用。
+9. kdegames - 内置小游戏。
+10. kdeadmin - 系统管理工具，配置 systemd 服务和 cron 计划任务。
+11. kdesdk - 翻译工具和编辑器等开发工具。一般只有开发者需要。
+
+附加应用程序目录：
+
+1. 以 **extragear-** 开头的目录是一些不常用软件和插件，通常不会默认安装，优先级比较低。
+2. 以 **playground-** 开头的目录是一些新的还不稳定的应用，优先级低。
+
+其他目录：
+
+1. kdereview - 好像是正在审核的应用。
+2. wikitolearn - 好像是一个在线教育网站，貌似和 KDE 没有直接联系，不建议翻译。
+
+
 如果您还没有想好要翻译哪些文件，可以挑选那些重要的，常用的部分来翻译。在开始翻译之前，最好在邮件列表或者 IRC 上吼一声，避免几个人翻译同一个文件，重复劳作。
 
-待补充...
+
+## 参考链接
+
+1. 简体中文翻译租维基主页 <https://community.kde.org/KDE_Localization/zh-cn>
+2. Trunk 分支翻译进度 <https://l10n.kde.org/stats/gui/trunk-kf5/team/zh_CN/>
+3. Stable 分支翻译进度 <https://l10n.kde.org/stats/gui/stable-kf5/team/zh_CN/>
