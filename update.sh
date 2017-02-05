@@ -18,6 +18,9 @@ svn up zh_CN
 svn up zh_TW
 cd ..
 
+# Update scripts and terms
+git pull
+
 echo "翻译已更新！"
 
 # End of file
