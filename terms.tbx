@@ -1,0 +1,1231 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE martif PUBLIC 'ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN' 'TBXcdv04.dtd'>
+<martif type="TBX" xml:lang="en_US">
+    <text>
+        <body>
+        <termEntry id="guo_yunhe-0">
+        <descrip type="subjectField">动作</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>add</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>添加</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-1">
+        <descrip type="subjectField">名词</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>bookmark</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>书签</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-2">
+        <descrip type="subjectField">动作</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>cancel</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>取消</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-3">
+        <descrip type="subjectField">动作，剪贴板</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>cut</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>剪切</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-4">
+        <descrip type="subjectField">动作</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>create</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>创建</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-5">
+        <descrip type="subjectField">动作</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>delete</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>删除</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-6">
+        <descrip type="subjectField">动作</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>edit</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>编辑</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-7">
+        <descrip type="subjectField">名词</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>file</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>文件</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-8">
+        <descrip type="subjectField">动作，查找替换</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>find</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>查找</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-9">
+        <descrip type="subjectField">动作</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>insert</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>插入</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-10">
+        <descrip type="subjectField">动作</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>load</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>加载</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-11">
+        <descrip type="subjectField">动作</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>modify</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>修改</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-12">
+        <descrip type="subjectField">动作</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>change</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>更改</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-13">
+        <descrip type="subjectField">动作</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>move</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>移动</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-14">
+        <descrip type="subjectField">动作</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>new</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>新建</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-15">
+        <descrip type="subjectField">动作</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>ok</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>确定</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-16">
+        <descrip type="subjectField">状态</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>ok</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>成功</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-18">
+        <descrip type="subjectField">动作</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>confirm</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>确认</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-19">
+        <descrip type="subjectField">动作，剪贴板</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>paste</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>粘贴</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-20">
+        <descrip type="subjectField">动作</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>redo</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>重做</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-21">
+        <descrip type="subjectField">动作</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>remove</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>移除</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-22">
+        <descrip type="subjectField">动作，查找替换</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>replace</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>替换</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-23">
+        <descrip type="subjectField">动作</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>search</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>搜索</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-24">
+        <descrip type="subjectField">动作</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>undo</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>撤销</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-25">
+        <descrip type="subjectField">名词</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>view</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>视图</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-26">
+        <descrip type="subjectField">动词</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>view</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>查看</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-27">
+        <descrip type="subjectField">名词</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>tool</term>
+          </tig>
+          <tig>
+            <term>tools</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>工具</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-28">
+        <descrip type="subjectField">动作</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>zoom</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>缩放</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-29">
+        <descrip type="subjectField">动作</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>zoom in</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>放大</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-30">
+        <descrip type="subjectField">动作</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>zoom out</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>缩小</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-31">
+        <descrip type="subjectField">名词，电子邮件</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>email</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>电子邮件</term>
+          </tig>
+          <tig>
+            <term>邮件</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-32">
+        <descrip type="subjectField">电子邮件</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>from</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>发件人</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-33">
+        <descrip type="subjectField">电子邮件</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>to</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>收件人</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-34">
+        <descrip type="subjectField">电子邮件</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>ham</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>非垃圾邮件</term>
+          </tig>
+          <tig>
+            <term>非垃圾</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-35">
+        <descrip type="subjectField">电子邮件</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>spam</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>垃圾邮件</term>
+          </tig>
+          <tig>
+            <term>垃圾</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-36">
+        <descrip type="subjectField">电子邮件</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>sender</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <descrip type="definition">如果 Sender: 与 From: 同时出现，则 From: 表示邮件作者，而 Sender: 表示发送邮件行为的人。Sender: 可能是代发邮件的人或程序。</descrip>
+          <tig>
+            <term>发送者</term>
+          </tig>
+          <tig>
+            <term>发件人</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-37">
+        <descrip type="subjectField">名词</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>message</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>消息</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-38">
+        <descrip type="subjectField">名词，电子邮件</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>message</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <descrip type="definition">指一封电子邮件</descrip>
+          <tig>
+            <term>信件</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-39">
+        <descrip type="subjectField">名词，电子邮件</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>recipient</term>
+          </tig>
+          <tig>
+            <term>recipients</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>收件人</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-41">
+        <descrip type="subjectField">动作</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>empty trash</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>清空回收站</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-42">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>restore</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>恢复</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-43">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>open path</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>打开路径</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-44">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>go back</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>后退</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-45">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>go forward</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>前进</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-46">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>confirmation</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>确认</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-47">
+        <descrip type="subjectField">对话框</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>do not ask again</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>不再询问</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-48">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>location bar</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>地址栏</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-49">
+        <descrip type="subjectField">动作</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>go</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>转到</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-50">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>help</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>帮助</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-51">
+        <descrip type="subjectField">动作</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>select all</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>全部选中</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-52">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>invert selection</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>反转选择</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-53">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>reload</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>重新装入</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-54">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>stop</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>停止</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-55">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>information</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>信息</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-56">
+        <descrip type="subjectField">名词，文件系统</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>folders</term>
+          </tig>
+          <tig>
+            <term>folder</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>文件夹</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-57">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>terminal</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>终端</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-58">
+        <descrip type="subjectField">名词，文件系统</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>places</term>
+          </tig>
+          <tig>
+            <term>place</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>位置</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-59">
+        <descrip type="subjectField">名词，图形界面</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>panels</term>
+          </tig>
+          <tig>
+            <term>panel</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>面板</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-60">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>control</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>控制</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-61">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>close</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>关闭</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-62">
+        <descrip type="subjectField">动作</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>split</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>拆分</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-63">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>split view</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>拆分视图</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-64">
+        <descrip type="subjectField">动作，选择</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>unselect all</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>全部不选</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-65">
+        <descrip type="subjectField">名词</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>application</term>
+          </tig>
+          <tig>
+            <term>applications</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>应用程序</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-66">
+        <descrip type="subjectField">名词，文件系统</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>trash</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>回收站</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-67">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>autostart</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>自动启动</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-68">
+        <descrip type="subjectField">动作，选择</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>select</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>选择</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-69">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>unselect</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>取消选择</term>
+          </tig>
+        </langSet>
+      </termEntry>
+    <termEntry id="guo_yunhe-17">
+        <descrip type="subjectField">属性，状态，名称</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>unknown</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>未知</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-40">
+        <descrip type="subjectField">名词</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>others</term>
+          </tig>
+          <tig>
+            <term></term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>其它</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-70">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>title</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>标题</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-71">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>document</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>文档</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-72">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>tags</term>
+          </tig>
+          <tig>
+            <term>tag</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>标签</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-73">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>rating</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>评分</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-74">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>type</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>类型</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-75">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>size</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>大小</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-76">
+        <descrip type="subjectField"></descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>name</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>名称</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-77">
+        <descrip type="subjectField">文件，时间</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>modified</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>修改时间</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-78">
+        <descrip type="subjectField">文件，时间</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>accessed</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>访问时间</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-79">
+        <descrip type="subjectField">文档属性</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>comment</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>备注</term>
+          </tig>
+          <tig>
+            <term></term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-80">
+        <descrip type="subjectField">源代码</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>comment</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>注释</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-81">
+        <descrip type="subjectField">评价，讨论</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>comment</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>评论</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-82">
+        <descrip type="subjectField">名词</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>image</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>图像</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-83">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>orientation</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>方向</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-84">
+        <descrip type="subjectField">音乐</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>artist</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>艺人</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-85">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>audio</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>音频</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-86">
+        <descrip type="subjectField">音乐</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>album</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>专辑</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-87">
+        <descrip type="subjectField">音乐</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>duration</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>时长</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-88">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>track</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>曲目</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-89">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>path</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>路径</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-90">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>other</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>其它</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-91">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>owner</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>所有者</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-92">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>developer</term>
+          </tig>
+          <tig>
+            <term>developers</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>开发者</term>
+          </tig>
+        </langSet>
+      </termEntry>
+    </body>
+    </text>
+</martif>

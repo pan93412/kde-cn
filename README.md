@@ -80,6 +80,18 @@ Trunk 指的是未发布的开发版代码，而 Stable 是最新发布的稳定
 
 ![screenshot](img/lokalize-sync.png)
 
+## 术语表
+
+为了统一翻译一些专用术语，避免分歧，我整理了一个术语表文件 `terms.tbx` 。如果您想参照术语表中的词汇，可以在 Lokalize 编辑界面中右击 **翻译存储** 标题栏，勾选 **词汇表** 。
+
+![screenshot](img/lokalize-use-terms.png)
+
+![screenshot](img/lokalize-use-terms2.png)
+
+如果想添加自己的术语，请用 **工具** --> **词汇表** 打开词汇表编辑界面。新添加和修改的词汇需要重启 Lokalize 之后才会显示在编辑界面中。
+
+![screenshot](img/lokalize-terms.png)
+
 
 ## 提交翻译
 
