@@ -1239,6 +1239,579 @@
           </tig>
         </langSet>
       </termEntry>
+    <termEntry id="guo_yunhe-94">
+        <descrip type="subjectField">加密</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>ciphertext</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>密文</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-95">
+        <descrip type="subjectField">加密</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>signature</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>签名</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-96">
+        <descrip type="subjectField">文件系统</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>extension</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>扩展名</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-97">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>description</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>描述</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-98">
+        <descrip type="subjectField">设置</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>general settings</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>常规设置</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-99">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>abort</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>中止</term>
+          </tig>
+        </langSet>
+      </termEntry>
+    <termEntry id="guo_yunhe-100">
+        <descrip type="definition">一种发源自牙买加的音乐
+
+https://zh.wikipedia.org/wiki/%E6%96%AF%E5%8D%A1%E6%9B%B2%E9%A2%A8</descrip>
+        <descrip type="subjectField">音乐</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>ska</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>斯卡</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-101">
+        <descrip type="definition">指一种音乐类型</descrip>
+        <descrip type="subjectField">音乐</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>dance</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>舞曲</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-102">
+        <descrip type="definition">https://zh.wikipedia.org/zh-cn/%E6%B2%B9%E6%BC%AC%E6%90%96%E6%BB%BE</descrip>
+        <descrip type="subjectField">音乐</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>grunge</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>垃圾摇滚</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-103">
+        <descrip type="subjectField">音乐</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>metal</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>重金属</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-104">
+        <descrip type="subjectField">音乐</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>jazz</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>爵士</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-105">
+        <descrip type="subjectField">音乐</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>hip-hop</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>嘻哈</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-106">
+        <descrip type="subjectField">音乐</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>funk</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>放克</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-107">
+        <descrip type="subjectField">音乐</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>disco</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>迪斯科</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-108">
+        <descrip type="subjectField">音乐</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>blues</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>蓝调</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-109">
+        <descrip type="subjectField">音乐</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>classic rock</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>古典摇滚</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-110">
+        <descrip type="subjectField">音乐</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>country</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>乡村</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-111">
+        <descrip type="subjectField">音乐</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>rhythm and blues</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>节奏蓝调</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-112">
+        <descrip type="subjectField">音乐</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>rap</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>说唱</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-113">
+        <descrip type="subjectField">音乐</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>reggae</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>雷鬼</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-114">
+        <descrip type="subjectField">音乐</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>rock</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>摇滚</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-115">
+        <descrip type="subjectField">音乐</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>techno</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>铁克诺</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-116">
+        <descrip type="subjectField">音乐</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>industrial</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>工业摇滚</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-117">
+        <descrip type="subjectField">音乐</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>alternative</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>另类</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-118">
+        <descrip type="subjectField">音频</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>soundtrack</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>音轨</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-119">
+        <descrip type="subjectField">音乐，类别</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>soundtrack</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>电影配乐</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-120">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>trip-hop</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>神游舞曲</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-121">
+        <descrip type="definition">一种无伴奏的，人声演唱的音乐类型</descrip>
+        <descrip type="subjectField">音乐</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>vocal</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>声乐</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-122">
+        <descrip type="subjectField">音乐</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>fusion</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>融合</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-123">
+        <descrip type="subjectField">音乐类型</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>acid</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>迷幻爵士</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-124">
+        <descrip type="definition">家庭音乐</descrip>
+        <descrip type="subjectField">音乐类型</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>house</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>家庭</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-125">
+        <descrip type="subjectField">音乐类型</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>alternative rock</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>另类摇滚</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-126">
+        <descrip type="subjectField">音乐类型</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>showtunes</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>秀场</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-127">
+        <descrip type="subjectField">音乐类型</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>lo-fi</term>
+          </tig>
+          <tig>
+            <term>lofi</term>
+          </tig>
+          <tig>
+            <term>lo fi</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>低保真</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-128">
+        <descrip type="subjectField">音乐类型</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>bluegrass</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>蓝草</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-129">
+        <descrip type="subjectField">音乐类型</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>a cappella</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>无伴奏合唱</term>
+          </tig>
+          <tig>
+            <term>阿卡佩拉</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-130">
+        <descrip type="subjectField">音乐类型</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>goa</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>果阿</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-131">
+        <descrip type="subjectField">音乐类型</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>drum &amp; bass</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>鼓和低音</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-132">
+        <descrip type="subjectField">音乐类型</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>club-house</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>俱乐部</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-133">
+        <descrip type="subjectField">音乐类型</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>hardcore techno</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>硬核铁克诺</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-134">
+        <descrip type="subjectField">音乐类型</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>terror</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>恐怖</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-135">
+        <descrip type="definition">独立音乐</descrip>
+        <descrip type="subjectField">音乐类型</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>indie</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>独立</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="guo_yunhe-136">
+        <descrip type="subjectField">音频</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>sonagram</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>声图</term>
+          </tig>
+        </langSet>
+      </termEntry>
     </body>
     </text>
 </martif>
