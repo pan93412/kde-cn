@@ -1,25 +1,17 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # Copyright Guo Yunhe <guoyunhebrave@gmail.com> 2017
+# Copyright 2019 pan93412 <pan93412@gmail.com>
 
 # This script will check translation changes before submit.
 
-# Check trunk branch
-cd trunk/zh_CN
-svn diff > ../../trunk.diff
-if [ -s ../../trunk.diff ]
-then
-    kompare -o ../../trunk.diff
-fi
-cd ../..
+# Import libs.
+. ./libs.sh
 
-# Check stable branch
-cd stable/zh_CN
-svn diff > ../../stable.diff
-if [ -s ../../stable.diff ]
-then
-    kompare -o ../../stable.diff
-fi
-cd ../..
+# Diff branches
+for branch in "trunk stable"
+do
+    genDiff $branch $OPTLANG
+done
 
-# End of file
+# EOF

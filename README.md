@@ -1,6 +1,6 @@
 # KDE 中文翻译项目结构化脚本
 
-> 注意，这个 Git 只是提供了脚本，不接受翻译提交……
+> 注意，这个 Git 只是提供了脚本，**不接受翻译提交**……
 
 这些个脚本目的是帮助新手不用去浏览庞杂的 SVN 目录结构就能快速开始工作。也避免翻译错了版本什么的。同时也减轻 Lokalize 的配置负担，这个软件还不是很直观，选项比较多。
 
@@ -8,8 +8,9 @@
 
 1. GNU/Linux 操作系统
 2. Lokalize，KDE 的工程翻译工具
-3. Subversion (SVN)，KDE使用的源代码管理工具
-4. Kompare, KDE 的 diff 工具
+3. Subversion (SVN)，KDE 使用的源代码管理工具
+4. Git，使用 git-svn 包装 svn 来下载 KDE 翻译版本库。
+5. Kompare, KDE 的 diff 工具
 
 ## 新人入门
 

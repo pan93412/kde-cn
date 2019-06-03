@@ -1,26 +1,22 @@
 #!/bin/bash
 
 # Copyright Guo Yunhe <guoyunhebrave@gmail.com> 2017
+# Copyright 2019 pan93412 <pan93412@gmail.com>
 
 # This script will update translation files from KDE SVN server.
 
+# Import libs.
+. ./libs.sh
+
 # Update trunk branch
-cd trunk
-svn up templates
-svn up zh_CN
-svn up zh_TW
-cd ..
+upd trunk
 
 # Update stable branch
-cd stable
-svn up templates
-svn up zh_CN
-svn up zh_TW
-cd ..
+upd stable
 
 # Update scripts and terms
 git pull
 
 echo "翻译已更新！"
 
-# End of file
+# EOF

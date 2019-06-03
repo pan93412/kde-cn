@@ -1,17 +1,17 @@
 #!/bin/bash
 
 # Copyright Guo Yunhe <guoyunhebrave@gmail.com> 2017
+# Copyright 2019 pan93412 <pan93412@gmail.com>
 
 # This script will check translation changes before submit.
 
-# Check trunk branch
-cd trunk/zh_CN
-svn commit -m "Translate kf5-trunk, zh_CN"
-cd ../..
+# Import libs.
+. ./libs.sh
 
-# Check stable branch
-cd stable/zh_CN
-svn commit -m "Translate kf5-stable, zh_CN"
-cd ../..
+# Commit branches.
+for i in "trunk stable"
+do
+    commit $i $OPTLANG
+done
 
-# End of file
+# EOF
